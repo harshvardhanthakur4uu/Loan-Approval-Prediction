@@ -6,13 +6,13 @@
 This project aims to predict whether a loan application will be approved or not based on historical data from 4000+ applicants. It involves a full data science pipeline including exploratory data analysis (EDA), data preprocessing, feature engineering, model building, evaluation, and performance comparison of multiple machine learning algorithms. This helps in automating and optimizing loan approval processes for financial institutions.
 📊 Tools & Technologies Used
 
-    Programming Language: Python
+1. Programming Language: Python<br>
 
-    Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+2. Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn<br>
 
-    Models: Logistic Regression, Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM)
+3. Models: Logistic Regression, Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM)<br>
 
-    Environment: Jupyter Notebook
+4. Environment: Jupyter Notebook<br>
 
 🚀 Project Highlights
 
