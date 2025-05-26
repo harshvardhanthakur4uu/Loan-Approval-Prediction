@@ -1,7 +1,7 @@
 # Loan-Approval-Prediction
 
-##📌 Loan Approval Prediction<br>
-###🔍 Project Summary
+📌 Loan Approval Prediction<br>
+🔍 Project Summary
 
 This project aims to predict whether a loan application will be approved or not based on historical data from 4000+ applicants. It involves a full data science pipeline including exploratory data analysis (EDA), data preprocessing, feature engineering, model building, evaluation, and performance comparison of multiple machine learning algorithms. This helps in automating and optimizing loan approval processes for financial institutions.
 📊 Tools & Technologies Used
@@ -14,7 +14,7 @@ This project aims to predict whether a loan application will be approved or not 
 
 4. Environment: Jupyter Notebook<br>
 
-###🚀 Project Highlights
+🚀 Project Highlights
 
 1. 4000+ loan applicants’ data analyzed to identify key features influencing approval decisions.<br>
 
@@ -26,7 +26,7 @@ This project aims to predict whether a loan application will be approved or not 
    
 4. Derived actionable insights to aid in data-driven decision-making for loan approval processes.<br>
 
-###📁 Project Structure
+📁 Project Structure
 
 Loan_Approval_Prediction/****
 │
@@ -36,24 +36,24 @@ Loan_Approval_Prediction/****
 ├── model/                   # Trained models (if any)<br>
 └── README.md                # Project documentation<br>
 
-###📈 Model Performance Summary
+📈 Model Performance Summary
 Model	Accuracy<br>
 Logistic Regression:	85%<br>
 Random Forest:	98%<br>
 K-Nearest Neighbors:	86%<br>
 Support Vector Machine:	92%<br>
-###📌 Future Improvements
+📌 Future Improvements
 
-    Implement hyperparameter tuning using GridSearchCV.
+1. Implement hyperparameter tuning using GridSearchCV.<br>
 
-    Deploy the model using Flask or Streamlit for real-time predictions.
+2. Deploy the model using Flask or Streamlit for real-time predictions.<br>
 
-    Use feature importance to further interpret model decisions.
+3. Use feature importance to further interpret model decisions.<br>
 
 🧠 Learnings
 
-    Real-world application of classification models.
+1. Real-world application of classification models.<br>
 
-    Importance of data preprocessing and model evaluation.
+2. Importance of data preprocessing and model evaluation.<br>
 
-    Comparison of ML algorithms for binary classification problems.
+3. Comparison of ML algorithms for binary classification problems.<br>
