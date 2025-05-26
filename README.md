@@ -1,7 +1,7 @@
 # Loan-Approval-Prediction
 
-📌 Loan Approval Prediction
-🔍 Project Summary
+##📌 Loan Approval Prediction<br>
+###🔍 Project Summary
 
 This project aims to predict whether a loan application will be approved or not based on historical data from 4000+ applicants. It involves a full data science pipeline including exploratory data analysis (EDA), data preprocessing, feature engineering, model building, evaluation, and performance comparison of multiple machine learning algorithms. This helps in automating and optimizing loan approval processes for financial institutions.
 📊 Tools & Technologies Used
@@ -14,35 +14,35 @@ This project aims to predict whether a loan application will be approved or not 
 
 4. Environment: Jupyter Notebook<br>
 
-🚀 Project Highlights
+###🚀 Project Highlights
 
-    4000+ loan applicants’ data analyzed to identify key features influencing approval decisions.
+1. 4000+ loan applicants’ data analyzed to identify key features influencing approval decisions.<br>
 
-    Performed comprehensive EDA and data cleaning to handle missing values, outliers, and categorical encoding.
+2. Performed comprehensive EDA and data cleaning to handle missing values, outliers, and categorical encoding.<br>
 
-    Built and evaluated four classification models, with Random Forest achieving 98% accuracy.
+3. Built and evaluated four classification models, with Random Forest achieving 98% accuracy.<br>
 
-    Used confusion matrix, accuracy, precision, recall, and F1 score for performance evaluation.
+3. Used confusion matrix, accuracy, precision, recall, and F1 score for performance evaluation.<br>
+   
+4. Derived actionable insights to aid in data-driven decision-making for loan approval processes.<br>
 
-    Derived actionable insights to aid in data-driven decision-making for loan approval processes.
+###📁 Project Structure
 
-📁 Project Structure
-
-Loan_Approval_Prediction/
+Loan_Approval_Prediction/****
 │
-├── data/                    # Dataset files
-├── notebooks/               # Jupyter notebooks for EDA and modeling
-├── visuals/                 # Graphs and plots
-├── model/                   # Trained models (if any)
-└── README.md                # Project documentation
+├── data/                    # Dataset files<br>
+├── notebooks/               # Jupyter notebooks for EDA and modeling<br>
+├── visuals/                 # Graphs and plots<br>
+├── model/                   # Trained models (if any)<br>
+└── README.md                # Project documentation<br>
 
-📈 Model Performance Summary
-Model	Accuracy
-Logistic Regression:	85%
-Random Forest:	98%
-K-Nearest Neighbors:	86%
-Support Vector Machine:	92%
-📌 Future Improvements
+###📈 Model Performance Summary
+Model	Accuracy<br>
+Logistic Regression:	85%<br>
+Random Forest:	98%<br>
+K-Nearest Neighbors:	86%<br>
+Support Vector Machine:	92%<br>
+###📌 Future Improvements
 
     Implement hyperparameter tuning using GridSearchCV.
 
